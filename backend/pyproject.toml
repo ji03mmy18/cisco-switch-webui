@@ -1,0 +1,12 @@
+[project]
+name = "backend"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi[standard]>=0.131.0",
+    "netmiko>=4.6.0",
+    "ntc-templates>=9.0.0",
+    "python-multipart>=0.0.22",
+    "textfsm>=2.1.0",
+]

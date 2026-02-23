@@ -1,0 +1,21 @@
+# Python 虛擬環境
+.venv/
+
+# Python 編譯快取
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 環境變數
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# 測試與覆蓋率
+.pytest_cache/
+.coverage
+htmlcov/
